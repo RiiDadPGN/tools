@@ -2,11 +2,11 @@
 
 ## if u install old sunlight:
 ```lua
-e
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RiiDadPGN/tools/main/Installer.lua", true))()
 ```
 ## if u instal qp-vape mod:
 ```lua
-e
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RiiDadPGN/tools/main/loader.lua", true))()
 ```
 
 > [!CAUTION]
